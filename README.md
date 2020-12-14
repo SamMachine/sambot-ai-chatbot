@@ -5,7 +5,7 @@ This is an api for an artificial inteligent chabtot. Access it via a GET request
 To use this api, all you need to do is send a GET request to the Sam Bot server. To use my chatbot, send a GET request to:
 http://sambot.ddns.net/text/api/?input=
 
-Keep in mind that this chatbot api can only process alphanumeric characters and the "+" character. If you have any input with non-alphanumeric character besides the "+" symbol, please remove them when using this api. Additionally, all spaces whould be replaced with the "+" symbol. Characters not allowed in the GET request include, {! @ # & ( ) – [ { } ] : ; ', ? / * ` ~ $ ^ = < >} 
+Keep in mind that this chatbot api can only process alphanumeric characters and the "+" character. If you have any input with non-alphanumeric character besides the "+" symbol, please remove them when using this api. Additionally, all spaces should be replaced with the "+" symbol. Characters not allowed in the GET request include, {! @ # & ( ) – [ { } ] : ; ', ? / * ` ~ $ ^ = < >} 
 
 # Examples
 
@@ -30,4 +30,4 @@ Examples coming soon...
 
 
 # Contact
-This chatbot api was created by Sam Bhatt. If you have any questinos or concerns, you can email me at samalert101@gmail.com. Or you can visit my GitHub at @SamMachine.
+This chatbot api was created by Sam Bhatt. If you have any questinos or concerns, you can email me at samalert101@gmail.com. Or you can visit my GitHub @SamMachine.
