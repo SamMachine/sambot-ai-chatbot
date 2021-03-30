@@ -30,4 +30,4 @@ Examples coming soon...
 
 
 # Contact
-This chatbot api was created by Sam Bhatt. If you have any questinos or concerns, you can email me at samalert101@gmail.com. Or you can visit my GitHub @SamMachine.
+This chatbot api was created by Sam Bhatt. If you have any questions or concerns, you can email me at samalert101@gmail.com. Or you can visit my GitHub @SamMachine.
