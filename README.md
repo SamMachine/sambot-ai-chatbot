@@ -22,12 +22,5 @@ http://sambot.ddns.net/text/api/?input=Leave+me+alone
 # Output
 This api outputs all data as a json. This api always outputs as a json array with a size of two. The first index will be your input as a string and the second will be the chatbot's output as a string. Since the ouput will always be a json, you can use this api in any proggramming language. 
 
-# Java Integration
-Examples coming soon...
-
-# PHP Integration
-Examples coming soon...
-
-
 # Contact
 This chatbot api was created by Sam Bhatt. If you have any questions or concerns, you can email me at samalert101@gmail.com. Or you can visit my GitHub @SamMachine.
